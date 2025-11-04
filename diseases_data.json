@@ -1,0 +1,399 @@
+{
+  "Cancer": {
+    "symptoms": [
+      "Fatigue",
+      "Lump",
+      "Unexplained weight loss",
+      "Persistent pain",
+      "Skin changes"
+    ],
+    "medicines": [
+      "Chemotherapy",
+      "Radiation therapy",
+      "Surgery",
+      "Targeted therapy"
+    ],
+    "precautions": [
+      "Avoid tobacco",
+      "Healthy diet",
+      "Regular exercise",
+      "Limit alcohol consumption",
+      "Screening tests"
+    ]
+  },
+  "Heart Disease": {
+    "symptoms": [
+      "Chest pain",
+      "Shortness of breath",
+      "Fatigue",
+      "Irregular heartbeat",
+      "Swelling in legs"
+    ],
+    "medicines": [
+      "Aspirin",
+      "Beta-blockers",
+      "ACE inhibitors",
+      "Statins",
+      "Nitroglycerin"
+    ],
+    "precautions": [
+      "Avoid smoking",
+      "Healthy diet",
+      "Manage stress",
+      "Regular exercise",
+      "Monitor cholesterol levels"
+    ]
+  },
+  "Stroke": {
+    "symptoms": [
+      "Sudden numbness",
+      "Confusion",
+      "Trouble speaking",
+      "Loss of balance",
+      "Severe headache"
+    ],
+    "medicines": [
+      "Alteplase",
+      "Anticoagulants",
+      "Aspirin",
+      "Statins",
+      "Clot-dissolving drugs"
+    ],
+    "precautions": [
+      "Control blood pressure",
+      "Quit smoking",
+      "Manage diabetes",
+      "Healthy diet",
+      "Physical activity"
+    ]
+  },
+  "Diabetes": {
+    "symptoms": [
+      "Increased thirst",
+      "Frequent urination",
+      "Fatigue",
+      "Blurred vision",
+      "Slow healing wounds"
+    ],
+    "medicines": [
+      "Insulin",
+      "Metformin",
+      "Sulfonylureas",
+      "GLP-1 receptor agonists"
+    ],
+    "precautions": [
+      "Maintain healthy weight",
+      "Exercise regularly",
+      "Monitor blood sugar levels",
+      "Healthy diet"
+    ]
+  },
+  "Chronic Kidney Disease": {
+    "symptoms": [
+      "Fatigue",
+      "Swelling",
+      "Nausea",
+      "Difficulty sleeping",
+      "Muscle cramps"
+    ],
+    "medicines": [
+      "ACE inhibitors",
+      "Angiotensin II receptor blockers",
+      "Diuretics",
+      "Erythropoietin"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Limit salt intake",
+      "Avoid NSAIDs",
+      "Stay hydrated",
+      "Regular checkups"
+    ]
+  },
+  "Alzheimer's Disease": {
+    "symptoms": [
+      "Memory loss",
+      "Difficulty with problem-solving",
+      "Confusion",
+      "Changes in mood",
+      "Difficulty speaking"
+    ],
+    "medicines": ["Donepezil", "Rivastigmine", "Memantine", "Galantamine"],
+    "precautions": [
+      "Mental exercises",
+      "Regular physical activity",
+      "Healthy diet",
+      "Social engagement",
+      "Control hypertension"
+    ]
+  },
+  "Parkinson's Disease": {
+    "symptoms": [
+      "Tremors",
+      "Muscle stiffness",
+      "Bradykinesia",
+      "Postural instability",
+      "Difficulty speaking"
+    ],
+    "medicines": [
+      "Levodopa",
+      "Dopamine agonists",
+      "MAO-B inhibitors",
+      "Anticholinergics"
+    ],
+    "precautions": [
+      "Exercise regularly",
+      "Avoid falls",
+      "Healthy diet",
+      "Physical therapy"
+    ]
+  },
+  "Chronic Obstructive Pulmonary Disease (COPD)": {
+    "symptoms": [
+      "Shortness of breath",
+      "Chronic cough",
+      "Wheezing",
+      "Fatigue",
+      "Chest tightness"
+    ],
+    "medicines": [
+      "Bronchodilators",
+      "Corticosteroids",
+      "Oxygen therapy",
+      "Antibiotics",
+      "Theophylline"
+    ],
+    "precautions": [
+      "Quit smoking",
+      "Avoid air pollutants",
+      "Use inhalers as prescribed",
+      "Stay active"
+    ]
+  },
+  "Liver Cirrhosis": {
+    "symptoms": [
+      "Fatigue",
+      "Loss of appetite",
+      "Nausea",
+      "Jaundice",
+      "Swelling in legs"
+    ],
+    "medicines": ["Diuretics", "Beta-blockers", "Antibiotics", "Lactulose"],
+    "precautions": [
+      "Avoid alcohol",
+      "Healthy diet",
+      "Limit salt intake",
+      "Monitor liver function",
+      "Vaccinations for hepatitis"
+    ]
+  },
+  "Tuberculosis": {
+    "symptoms": [
+      "Persistent cough",
+      "Chest pain",
+      "Coughing blood",
+      "Night sweats",
+      "Weight loss"
+    ],
+    "medicines": ["Isoniazid", "Rifampin", "Ethambutol", "Pyrazinamide"],
+    "precautions": [
+      "Vaccination (BCG)",
+      "Avoid contact with infected individuals",
+      "Wear masks",
+      "Ventilate rooms"
+    ]
+  },
+  "HIV-AIDS": {
+    "symptoms": [
+      "Fever",
+      "Fatigue",
+      "Swollen lymph nodes",
+      "Night sweats",
+      "Unexplained weight loss"
+    ],
+    "medicines": [
+      "Antiretroviral therapy (ART)",
+      "Protease inhibitors",
+      "Nucleoside reverse transcriptase inhibitors (NRTIs)"
+    ],
+    "precautions": [
+      "Safe sex practices",
+      "Regular HIV testing",
+      "Avoid needle sharing",
+      "Adherence to ART regimen"
+    ]
+  },
+  "Multiple Sclerosis": {
+    "symptoms": [
+      "Numbness",
+      "Weakness",
+      "Vision problems",
+      "Dizziness",
+      "Difficulty with coordination"
+    ],
+    "medicines": [
+      "Interferon beta",
+      "Corticosteroids",
+      "Glatiramer acetate",
+      "Fingolimod"
+    ],
+    "precautions": [
+      "Manage stress",
+      "Regular physical therapy",
+      "Healthy diet",
+      "Avoid extreme temperatures"
+    ]
+  },
+  "Leukemia": {
+    "symptoms": [
+      "Fatigue",
+      "Frequent infections",
+      "Weight loss",
+      "Swollen lymph nodes",
+      "Bruising easily"
+    ],
+    "medicines": [
+      "Chemotherapy",
+      "Targeted therapy",
+      "Radiation therapy",
+      "Stem cell transplant"
+    ],
+    "precautions": [
+      "Avoid exposure to chemicals",
+      "Regular checkups",
+      "Balanced diet",
+      "Monitor for infections"
+    ]
+  },
+  "Lung Cancer": {
+    "symptoms": [
+      "Persistent cough",
+      "Chest pain",
+      "Coughing up blood",
+      "Shortness of breath",
+      "Unexplained weight loss"
+    ],
+    "medicines": [
+      "Surgery",
+      "Chemotherapy",
+      "Radiation therapy",
+      "Targeted therapy"
+    ],
+    "precautions": [
+      "Avoid smoking",
+      "Limit exposure to pollutants",
+      "Healthy diet",
+      "Regular screenings"
+    ]
+  },
+  "Pancreatic Cancer": {
+    "symptoms": [
+      "Abdominal pain",
+      "Unexplained weight loss",
+      "Jaundice",
+      "Fatigue",
+      "Loss of appetite"
+    ],
+    "medicines": [
+      "Surgery",
+      "Chemotherapy",
+      "Targeted therapy",
+      "Radiation therapy"
+    ],
+    "precautions": [
+      "Healthy diet",
+      "Limit alcohol consumption",
+      "Avoid smoking",
+      "Maintain healthy weight"
+    ]
+  },
+  "Osteoporosis": {
+    "symptoms": [
+      "Bone pain",
+      "Fractures",
+      "Loss of height",
+      "Stooped posture",
+      "Back pain"
+    ],
+    "medicines": [
+      "Bisphosphonates",
+      "Calcitonin",
+      "Hormone replacement therapy",
+      "Denosumab"
+    ],
+    "precautions": [
+      "Weight-bearing exercises",
+      "Calcium and vitamin D intake",
+      "Avoid smoking",
+      "Limit alcohol"
+    ]
+  },
+  "Rheumatoid Arthritis": {
+    "symptoms": [
+      "Joint pain",
+      "Swelling",
+      "Fatigue",
+      "Morning stiffness",
+      "Loss of joint function"
+    ],
+    "medicines": ["DMARDs", "NSAIDs", "Corticosteroids", "Biologics"],
+    "precautions": [
+      "Regular exercise",
+      "Physical therapy",
+      "Maintain healthy weight",
+      "Joint protection techniques"
+    ]
+  },
+  "Hepatitis C": {
+    "symptoms": ["Fatigue", "Fever", "Nausea", "Jaundice", "Muscle pain"],
+    "medicines": [
+      "Antiviral medications",
+      "Sofosbuvir",
+      "Ledipasvir",
+      "Ribavirin"
+    ],
+    "precautions": [
+      "Avoid sharing needles",
+      "Safe sex practices",
+      "Avoid alcohol",
+      "Regular liver function tests"
+    ]
+  },
+  "Meningitis": {
+    "symptoms": [
+      "Severe headache",
+      "Fever",
+      "Stiff neck",
+      "Nausea",
+      "Sensitivity to light"
+    ],
+    "medicines": ["Antibiotics", "Corticosteroids", "Antiviral medications"],
+    "precautions": [
+      "Vaccination",
+      "Avoid contact with infected individuals",
+      "Practice good hygiene",
+      "Stay hydrated"
+    ]
+  },
+  "Sepsis": {
+    "symptoms": [
+      "Fever",
+      "Rapid breathing",
+      "Confusion",
+      "Rapid heart rate",
+      "Low blood pressure"
+    ],
+    "medicines": [
+      "Antibiotics",
+      "Intravenous fluids",
+      "Vasopressors",
+      "Corticosteroids"
+    ],
+    "precautions": [
+      "Timely treatment of infections",
+      "Good hygiene",
+      "Monitor wounds",
+      "Regular checkups"
+    ]
+  }
+}
